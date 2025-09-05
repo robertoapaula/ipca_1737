@@ -1,0 +1,4 @@
+Na minha opinião o JSON retorno da url, referente a Tabela 1737 funciona apenas como um catálogo ou dicionário de dados, serve para identificar:
+quais meses estão disponíveis, como a tabela está organizada, e quando cada dado foi publicado, mas não atende ao objetivo de analisar o IPCA.
+
+Para obter os valores efetivos do IPCA, é necessário consumir outra rota da API do SIDRA, que retorne os valores associados a cada período e variável.
